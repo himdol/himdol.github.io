@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120">
+  <!-- 왼쪽 대나무 -->
+  <path d="M35 115 L35 75 Q35 73 36 72 L36 55 Q36 53 37 52 L37 35 Q37 33 38 32 L38 20"
+        stroke="#228B22" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- 왼쪽 대나무 마디 -->
+  <ellipse cx="35" cy="75" rx="5" ry="2" fill="#1a6b1a"/>
+  <ellipse cx="36" cy="55" rx="5" ry="2" fill="#1a6b1a"/>
+  <ellipse cx="37" cy="35" rx="5" ry="2" fill="#1a6b1a"/>
+
+  <!-- 오른쪽 대나무 -->
+  <path d="M55 115 L55 85 Q55 83 56 82 L56 65 Q56 63 57 62 L57 45 Q57 43 58 42 L58 30 Q58 28 59 27 L59 15"
+        stroke="#228B22" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- 오른쪽 대나무 마디 -->
+  <ellipse cx="55" cy="85" rx="5" ry="2" fill="#1a6b1a"/>
+  <ellipse cx="56" cy="65" rx="5" ry="2" fill="#1a6b1a"/>
+  <ellipse cx="57" cy="45" rx="5" ry="2" fill="#1a6b1a"/>
+
+  <!-- 왼쪽 잎들 -->
+  <path d="M35 75 Q20 65 15 55" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M36 55 Q22 50 18 40" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M37 35 Q25 30 20 22" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M35 95 Q20 90 12 80" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- 오른쪽 잎들 -->
+  <path d="M55 85 Q70 75 78 65" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M56 65 Q72 58 80 48" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M57 45 Q72 38 82 28" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M58 30 Q70 22 78 12" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M55 100 Q72 95 82 88" stroke="#228B22" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
